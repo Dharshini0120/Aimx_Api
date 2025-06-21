@@ -1,0 +1,2 @@
+layout.tsx     -- router.replace("/unauthorized");
+src>app>unauthorised>page.tsx
